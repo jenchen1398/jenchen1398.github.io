@@ -1,4 +1,4 @@
-baseURL = "jenny-chen.net"
+baseURL = "https://jenny-chen.net/"
 languageCode = "en-us"
 title = "Jenny Chen"
 theme = "ananke"
