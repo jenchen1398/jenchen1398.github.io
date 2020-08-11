@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jenny-chen.net/about/</loc>
+    <loc>/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://jenny-chen.net/categories/</loc>
+    <loc>/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://jenny-chen.net/contact/</loc>
+    <loc>/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://jenny-chen.net/</loc>
+    <loc>/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://jenny-chen.net/tags/</loc>
+    <loc>/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
