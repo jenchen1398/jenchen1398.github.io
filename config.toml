@@ -1,0 +1,25 @@
+baseURL = "https://jenny-chen.net"
+languageCode = "en-us"
+title = "Jenny Chen"
+theme = "ananke"
+
+disqusShortname = "disqus_gClthcoJhw"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  description = "Personal Website of Jenny Chen | Machine Learning Researcher, Engineer, Violinist"
+  commentoEnable = true
+  github = "https://github.com/jenchen1398/"
+  linkedin = "https://www.linkedin.com/in/jc4686/"
+
+  background_color_class = "bg-black"
+  featured_image = "/images/bruges_daffodils.JPG"
+  recent_posts_number = 2
